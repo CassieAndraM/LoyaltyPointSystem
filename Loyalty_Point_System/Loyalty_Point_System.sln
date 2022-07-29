@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loyalty_Point_System", "Loyalty_Point_System.csproj", "{3385989F-A233-45C9-A0B8-3E30DC27E6B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLayer", "..\AppLayer\AppLayer.csproj", "{84D761EE-2F18-44E7-AD20-047B3CEE0455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3385989F-A233-45C9-A0B8-3E30DC27E6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3385989F-A233-45C9-A0B8-3E30DC27E6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3385989F-A233-45C9-A0B8-3E30DC27E6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3385989F-A233-45C9-A0B8-3E30DC27E6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D761EE-2F18-44E7-AD20-047B3CEE0455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D761EE-2F18-44E7-AD20-047B3CEE0455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D761EE-2F18-44E7-AD20-047B3CEE0455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D761EE-2F18-44E7-AD20-047B3CEE0455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF954C24-012F-471A-999F-B39C4B1E0886}
+	EndGlobalSection
+EndGlobal

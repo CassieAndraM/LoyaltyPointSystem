@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AppLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AppLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppLayer/1.0.0": {
+      "type": "project",
+      "path": "../AppLayer/AppLayer.csproj",
+      "msbuildProject": "../AppLayer/AppLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AppLayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\cassandra\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\cassandra\\source\\repos\\Loyalty_Point_System\\Loyalty_Point_System.csproj",
+      "projectName": "Loyalty_Point_System",
+      "projectPath": "C:\\Users\\cassandra\\source\\repos\\Loyalty_Point_System\\Loyalty_Point_System.csproj",
+      "packagesPath": "C:\\Users\\cassandra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cassandra\\source\\repos\\Loyalty_Point_System\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\cassandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\cassandra\\source\\repos\\AppLayer\\AppLayer.csproj": {
+              "projectPath": "C:\\Users\\cassandra\\source\\repos\\AppLayer\\AppLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

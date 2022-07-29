@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Loyalty_Point_System/1.0.0": {
+        "dependencies": {
+          "AppLayer": "1.0.0"
+        },
+        "runtime": {
+          "Loyalty_Point_System.dll": {}
+        }
+      },
+      "AppLayer/1.0.0": {
+        "runtime": {
+          "AppLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loyalty_Point_System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\cassandra\source\repos\AppLayer\bin\Debug\net6.0\AppLayer.deps.json
+C:\Users\cassandra\source\repos\AppLayer\bin\Debug\net6.0\AppLayer.dll
+C:\Users\cassandra\source\repos\AppLayer\bin\Debug\net6.0\AppLayer.pdb
+C:\Users\cassandra\source\repos\AppLayer\obj\Debug\net6.0\AppLayer.csproj.AssemblyReference.cache
+C:\Users\cassandra\source\repos\AppLayer\obj\Debug\net6.0\AppLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassandra\source\repos\AppLayer\obj\Debug\net6.0\AppLayer.AssemblyInfoInputs.cache
+C:\Users\cassandra\source\repos\AppLayer\obj\Debug\net6.0\AppLayer.AssemblyInfo.cs
+C:\Users\cassandra\source\repos\AppLayer\obj\Debug\net6.0\AppLayer.csproj.CoreCompileInputs.cache
+C:\Users\cassandra\source\repos\AppLayer\obj\Debug\net6.0\AppLayer.dll
+C:\Users\cassandra\source\repos\AppLayer\obj\Debug\net6.0\refint\AppLayer.dll
+C:\Users\cassandra\source\repos\AppLayer\obj\Debug\net6.0\AppLayer.pdb
+C:\Users\cassandra\source\repos\AppLayer\obj\Debug\net6.0\ref\AppLayer.dll
